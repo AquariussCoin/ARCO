@@ -1,0 +1,2 @@
+debian/bin/aquariuscoind usr/bin
+src/aquariuscoind usr/lib/aquariuscoin
